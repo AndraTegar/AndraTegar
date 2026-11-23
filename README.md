@@ -42,11 +42,11 @@ Programming Languages &#8628;</h4>
     <h4>&#10022; UI/UX &#8628;</h4>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <h4>&#10022; Design & Illustration &#8628;</h4>
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=ps" height="28" alt="Adobe Photoshop" />
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
     <h4>&#10022; Other &#8628;</h4>
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=pr" height="28" alt="Adobe Premiere Pro" />
+    <img src="https://skillicons.dev/icons?i=ae" height="28" alt="Adobe After Effects" />
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </div>
 
